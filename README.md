@@ -1,6 +1,6 @@
 # Newspaper radio projects
 
-This is a project to voice a radio program based on photographs of news articles. The processing pipeline consists of the following parts:
+This is a project to voice a radio program based on photos of news articles. The processing pipeline consists of the following parts:
 
 - OCR
 - Newspaper content LLM merging
