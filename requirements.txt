@@ -1,0 +1,6 @@
+doclayout_yolo==0.0.3
+easyocr==1.7.2
+huggingface_hub==0.30.2
+pandas==2.2.3
+Requests==2.32.3
+yandex_cloud_ml_sdk==0.9.1
