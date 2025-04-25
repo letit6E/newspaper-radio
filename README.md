@@ -5,3 +5,10 @@ This is a project to voice a radio program based on photographs of news articles
 - OCR
 - Newspaper content LLM merging
 - Text2Speech converting a radio article into a radio program
+
+## Authors:
+- Pogrebnikov Nikolay
+- Simonenko Vadim
+- Shangareev Rustam
+- Podozerova Polina
+- Samorukov Mark
